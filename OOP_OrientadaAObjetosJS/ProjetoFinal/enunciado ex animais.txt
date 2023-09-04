@@ -1,0 +1,1 @@
+Com base nas classes da imagem, crie as classes para os seguintes animais: gato, cachorro, morcego, pato, pombo, ornitorrinco, tartaruga, baleia, pinguin, coruja e mais 2 da sua escolha.
